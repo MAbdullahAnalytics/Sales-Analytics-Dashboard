@@ -50,6 +50,4 @@ Power Query: derived calendar columns (year, month, month name, start of month, 
 
 Other: field parameters, bookmarks and selection pane, conditional formatting (icons, data bars, background colors), tooltip pages, and publishing to the Power BI Service.
 
-Screenshot
-
-Example: https://github.com/MAbdullahAnalytics/Sales-Analytics-Dashboard/blob/main/Dashboard%20final.png
+![Sales Analytics Dashboard](Dashboard%20final.png)
