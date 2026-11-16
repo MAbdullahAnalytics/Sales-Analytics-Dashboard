@@ -14,14 +14,17 @@ Which salespeople and products are hitting the 60% profit-margin target?
 How many shipments are low-box shipments (under 50 boxes, typically samples), and is that share under control?
 How do results change by product category and country?
 📊 Key Results (Feb 2023 – Feb 2024)
-Metric	Value
-Total Sales	$34M
-Total Profit	$20.5M
-Total Cost	$13.5M
-Profit Margin	60.3% (target: 60%)
-Boxes Shipped	~2M
-Shipments	6,113
-Low-Box Shipment Rate	10.2% (624 shipments)
+
+| Metric | Value |
+|---|---|
+| Total Sales | **$34M** |
+| Total Profit | **$20.5M** |
+| Total Cost | $13.5M |
+| Profit Margin | **60.3%** (target: 60%) |
+| Boxes Shipped | ~2M |
+| Shipments | 6,113 |
+| Low-Box Shipment Rate | **10.2%** (624 shipments) |
+
 ✨ Dashboard Features
 KPI header cards with month-over-month reference labels and conditional formatting (red/green indicators), plus a profit % gauge against target
 Dynamic trend chart driven by a field parameter: one visual switches between Sales, Boxes, Shipments, Cost, and Profit
@@ -46,3 +49,7 @@ RELATED for a calculated cost column across tables
 Power Query: derived calendar columns (year, month, month name, start of month, weekday) for correct chronological sorting.
 
 Other: field parameters, bookmarks and selection pane, conditional formatting (icons, data bars, background colors), tooltip pages, and publishing to the Power BI Service.
+
+Screenshot
+
+Example: https://github.com/MAbdullahAnalytics/Sales-Analytics-Dashboard/blob/main/Dashboard%20final.png
